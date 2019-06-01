@@ -56,9 +56,7 @@ class Desk:
     # esta es la función que ejecuta la división
    
     def dividir(self):
-            
-           
-            
+                      
             x=float(self.var1.get())
             y=float(self.var2.get())
             if x==y:
